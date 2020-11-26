@@ -33,3 +33,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 poop poop poop
+
+library(dplyr)
